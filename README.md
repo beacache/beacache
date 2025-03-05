@@ -2,7 +2,7 @@
 
 beacache is a roblox developer.
 
-## lua
+## Usage
 
 ```lua
 local words = {
