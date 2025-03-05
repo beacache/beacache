@@ -6,9 +6,7 @@ beacache is a roblox developer.
 
 ```lua
 local words = {
-  "Welcome to this profile.",
-  "",
-  "Hello, World!",
+  "Hello!",
 }
 print(words[ math.random( #words ) ])
 ```
