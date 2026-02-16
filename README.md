@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is iceezt and I'm a developer, from Russia.</h2>
+<h2 align="left">Hi 👋! My name is iceezt and I'm a developer</h2>
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=beacache&color=brightgreen">  
 
 <br clear="both">
